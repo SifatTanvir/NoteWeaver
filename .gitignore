@@ -1,0 +1,24 @@
+# Android Studio
+*.iml
+.gradle
+.idea
+local.properties
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+
+# ONNX Model (too large for git)
+*.onnx
+app/src/main/assets/*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Gradle
+.gradle/
+build/
