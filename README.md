@@ -1,6 +1,8 @@
 # Note Weaver - AI-Powered Smart Note-Taking App
 
-Android application powered by a **pruned and quantized BERT model** for advanced semantic similarity detection.
+Android application powered by a **pruned and quantized BERT model** for advanced semantic similarity detection. 
+Size of the .apk file: 115 MB
+Size on disk after installation: 122 MB
 
 ---
 
